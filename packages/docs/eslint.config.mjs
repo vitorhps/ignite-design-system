@@ -10,4 +10,4 @@ const compat = new FlatCompat({
   recommendedConfig: js.configs.recommended,
   allConfig: js.configs.all,
 })
-export default [...compat.extends('@ignite-ui/eslint-config')]
+export default [...compat.extends('@vitorhps-ignite-ui/eslint-config')]

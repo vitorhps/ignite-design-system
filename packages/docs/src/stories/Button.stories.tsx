@@ -1,7 +1,7 @@
 import type { Meta, StoryObj } from '@storybook/react'
 import { ArrowRight } from 'phosphor-react'
 
-import { Button, ButtonProps } from '@ignite-ui/react'
+import { Button, ButtonProps } from '@vitorhps-ignite-ui/react'
 
 const meta = {
   title: 'Form/Button',

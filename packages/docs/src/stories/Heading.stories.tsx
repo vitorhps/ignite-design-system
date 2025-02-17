@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from '@storybook/react'
 
-import { Heading, HeadingProps } from '@ignite-ui/react'
+import { Heading, HeadingProps } from '@vitorhps-ignite-ui/react'
 
 const meta = {
   title: 'Typography/Heading',
