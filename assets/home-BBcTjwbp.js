@@ -1,0 +1,3 @@
+import{j as t}from"./index-BY56YOu8.js";import{useMDXComponents as i}from"./index-CHrGa5Tm.js";import{M as r}from"./index-BtMSDTDd.js";import"./_commonjsHelpers-CqkleIqs.js";import"./index-CQwh6Daz.js";import"./index-_2TAQcTa.js";import"./iframe-043htIpa.js";import"./index-CNxgJDzb.js";import"./index-CXQShRbs.js";import"./index-DrFu-skq.js";function e(o){const n={h1:"h1",p:"p",...i(),...o.components};return t.jsxs(t.Fragment,{children:[t.jsx(r,{title:"Home"}),`
+`,t.jsx(n.h1,{id:"ignite-ui",children:"Ignite UI"}),`
+`,t.jsx(n.p,{children:"That's my storybook. I hope you like it."})]})}function l(o={}){const{wrapper:n}={...i(),...o.components};return n?t.jsx(n,{...o,children:t.jsx(e,{...o})}):e(o)}export{l as default};
